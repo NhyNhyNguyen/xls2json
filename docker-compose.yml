@@ -1,0 +1,60 @@
+#version of docker-compose
+
+version: '2'
+
+services:
+  gen_poker:
+    image: gsn/xls2json
+    volumes:
+      #mount input directory
+      - "/d/dev-zingplay-sea/deploy-balancing/poker:/input"
+      #mount output directory
+      - "/d/git/poker/server/res/json:/output:rw"
+
+    command:
+      php index.php
+      
+  gen_poker_side:
+    image: gsn/xls2json
+    volumes:
+      #mount input directory
+      - "/d/dev-zingplay-sea/deploy-balancing/poker/sides:/input"
+      #mount output directory
+      - "/d/git/poker/client/res/jsons:/output:rw"
+
+    command:
+      php index.php
+      
+
+  gen_lieng:
+    image: gsn/xls2json
+    volumes:
+      #mount input directory
+      - "/d/dev-zingplay-sea/deploy-balancing/lieng:/input"
+      #mount output directory
+      - "/d/git/lieng/server/res/json:/output:rw"
+
+    command:
+      php index.php
+
+  gen_dummy:
+    image: gsn/xls2json
+    volumes:
+      #mount input directory
+      - "/d/dev-zingplay-sea/deploy-balancing/dummy:/input"
+      #mount output directory
+      - "/d/git/dummy/server/res/json:/output:rw"
+
+    command:
+      php index.php
+
+  gen_ccn:
+    image: gsn/xls2json
+    volumes:
+      #mount input directory
+      - "/d/dev-ccn/balancing:/input"
+      #mount output directory
+      - "/d/git/ccn/server/res/json:/output:rw"
+
+    command:
+      php index.php

@@ -1,0 +1,1 @@
+docker build -t gsn/xls2json ./

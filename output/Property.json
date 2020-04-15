@@ -1,0 +1,1018 @@
+{
+    "set": {
+        "set_1": {
+            "name": "C\u01a1 b\u1ea3n",
+            "girl_id": 1001,
+            "isLock": 0,
+            "description": [
+                "Description 1",
+                "Description 2",
+                "Description 3"
+            ]
+        },
+        "set_2": {
+            "name": "Kh\u1edfi Nghi\u1ec7p",
+            "girl_id": 2001,
+            "isLock": 0,
+            "description": [
+                "Welcome to your New Home",
+                "Your effort is finally Repaid",
+                "Total Value: 300.000 Chips."
+            ],
+            "list_property": [
+                2001,
+                2002,
+                2003,
+                2004,
+                2005,
+                2006,
+                2007,
+                2008,
+                2009,
+                2010,
+                2011,
+                2012,
+                2013,
+                2014,
+                2015,
+                2016
+            ]
+        },
+        "set_3": {
+            "name": "Trung L\u01b0u",
+            "girl_id": 3001,
+            "isLock": 0,
+            "description": [
+                "This President Room is Huggge",
+                "Exclusive Condo",
+                "Total Value: ~2500 Golds."
+            ],
+            "list_property": [
+                3001,
+                3002,
+                3003,
+                3004,
+                3005,
+                3006,
+                3007,
+                3008,
+                3009,
+                3010,
+                3011,
+                3012,
+                3013,
+                3014,
+                3015,
+                3016
+            ]
+        },
+        "set_4": {
+            "name": "Th\u01b0\u1ee3ng L\u01b0u",
+            "girl_id": 4001,
+            "isLock": 0,
+            "description": [
+                "You are now belong to 1%",
+                "You play Poker just for Fame",
+                "Total Value: Who care ?"
+            ],
+            "list_property": [
+                4001,
+                4002,
+                4003,
+                4004,
+                4005,
+                4006,
+                4007,
+                4008,
+                4009,
+                4010,
+                4011,
+                4012,
+                4013,
+                4014,
+                4015,
+                4016
+            ]
+        },
+        "set_5": {
+            "name": "\u0110\u1ea1i Gia",
+            "girl_id": 5001,
+            "isLock": 1,
+            "description": [
+                "Description 1",
+                "Description 2",
+                "Description 3"
+            ],
+            "list_property": [
+                5001,
+                5002,
+                5003,
+                5004,
+                5005,
+                5006,
+                5007,
+                5008,
+                5009,
+                5010,
+                5011,
+                5012,
+                5013,
+                5014,
+                5015,
+                5016
+            ]
+        },
+        "set_6": {
+            "name": "T\u1ef7 Ph\u00fa",
+            "girl_id": 6001,
+            "isLock": 1,
+            "description": [
+                "Description 1",
+                "Description 2",
+                "Description 3"
+            ],
+            "list_property": [
+                6001,
+                6002,
+                6003,
+                6004,
+                6005,
+                6006,
+                6007,
+                6008,
+                6009,
+                6010,
+                6011,
+                6012,
+                6013,
+                6014,
+                6015,
+                6016
+            ]
+        }
+    },
+    "property": {
+        "2001": {
+            "gold": 0,
+            "chip": 2500,
+            "name": "Leisure Lamp",
+            "chip_sell": 250,
+            "description": [
+                "For Living Room",
+                "Lighting Red"
+            ]
+        },
+        "2002": {
+            "gold": 0,
+            "chip": 2500,
+            "name": "Outdoor Lantern",
+            "chip_sell": 250,
+            "description": [
+                "For Front Door",
+                "Lighting Yello"
+            ]
+        },
+        "2003": {
+            "gold": 0,
+            "chip": 5000,
+            "name": "Table Lamp",
+            "chip_sell": 500,
+            "description": [
+                "Cheap but Efficient",
+                "Lighting White"
+            ]
+        },
+        "2004": {
+            "gold": 0,
+            "chip": 5000,
+            "name": "Leisure Vase",
+            "chip_sell": 500,
+            "description": [
+                "For Decoration Only"
+            ]
+        },
+        "2005": {
+            "gold": 0,
+            "chip": 10000,
+            "name": "Ceramic Vase",
+            "chip_sell": 1000,
+            "description": [
+                "Made from Asia",
+                "Hand made with authentic artist",
+                "Rarely Use"
+            ]
+        },
+        "2006": {
+            "gold": 0,
+            "chip": 10000,
+            "name": "Glase Vase",
+            "chip_sell": 1000,
+            "description": [
+                "Made from Glass Manufactor",
+                "For everyday use"
+            ]
+        },
+        "2007": {
+            "gold": 0,
+            "chip": 10000,
+            "name": "Leisure Tea Cup",
+            "chip_sell": 1000,
+            "description": [
+                "Made from Asia",
+                "For everyday use"
+            ]
+        },
+        "2008": {
+            "gold": 0,
+            "chip": 10000,
+            "name": "Leisure Wall Clock",
+            "chip_sell": 1000,
+            "description": [
+                "Un-known Origin",
+                "Still working"
+            ]
+        },
+        "2009": {
+            "gold": 0,
+            "chip": 15000,
+            "name": "Leisure Pocket Clock",
+            "chip_sell": 1500,
+            "description": [
+                "Special Handmade",
+                "Vintage Look",
+                "Rarely on Time"
+            ]
+        },
+        "2010": {
+            "gold": 0,
+            "chip": 25000,
+            "name": "Champange",
+            "chip_sell": 2500,
+            "description": [
+                "Import from other continent",
+                "Save for Celebration"
+            ]
+        },
+        "2011": {
+            "gold": 0,
+            "chip": 25000,
+            "name": "Sport Watch",
+            "chip_sell": 2500,
+            "description": [
+                "Multi-features",
+                "All Black but not Steel",
+                "Water-Proof"
+            ]
+        },
+        "2012": {
+            "gold": 0,
+            "chip": 30000,
+            "name": "Open Headphone",
+            "chip_sell": 3000,
+            "description": [
+                "Imported",
+                "Sound Leaky",
+                "Comfortable Wearing"
+            ]
+        },
+        "2013": {
+            "gold": 0,
+            "chip": 30000,
+            "name": "Digital Camera",
+            "chip_sell": 3000,
+            "description": [
+                "Common Camera with Mass Productions",
+                "Fast Capturing during Daylight",
+                "Can't take picture in the dark"
+            ]
+        },
+        "2014": {
+            "gold": 0,
+            "chip": 35000,
+            "name": "Sport Motocycle",
+            "chip_sell": 3500,
+            "description": [
+                "Type: Standard",
+                "Engine Type: Single-Cylinder",
+                "Tranmission Type: Manual"
+            ]
+        },
+        "2015": {
+            "gold": 0,
+            "chip": 40000,
+            "name": "Fake P Painting",
+            "chip_sell": 4000,
+            "description": [
+                "Import from other Country",
+                "Look good but not authentic"
+            ]
+        },
+        "2016": {
+            "gold": 0,
+            "chip": 45000,
+            "name": "Fake M Painting",
+            "chip_sell": 4500,
+            "description": [
+                "Import from other Country",
+                "Look good but not authentic"
+            ]
+        },
+        "3001": {
+            "gold": 0,
+            "chip": 250000,
+            "name": "Gold Stool",
+            "chip_sell": 25000,
+            "description": [
+                "Gold Coverage: 30%",
+                "Imported",
+                "Un-known Origin"
+            ]
+        },
+        "3002": {
+            "gold": 0,
+            "chip": 300000,
+            "name": "White Marble Vase",
+            "chip_sell": 30000,
+            "description": [
+                "Marble 100%",
+                "Local Origin",
+                "Outdoor Putting"
+            ]
+        },
+        "3003": {
+            "gold": 0,
+            "chip": 350000,
+            "name": "Modern Lamp",
+            "chip_sell": 35000,
+            "description": [
+                "Made from Local Factory",
+                "LED Lighting",
+                "16 Colours"
+            ]
+        },
+        "3004": {
+            "gold": 0,
+            "chip": 400000,
+            "name": "Authentic Vase",
+            "chip_sell": 40000,
+            "description": [
+                "Buy From an Auction",
+                "Bid from authentic Local Artist"
+            ]
+        },
+        "3005": {
+            "gold": 0,
+            "chip": 450000,
+            "name": "Glass Lantern ",
+            "chip_sell": 45000,
+            "description": [
+                "Living Room Decoration",
+                "LED Lighting",
+                "4 Colours"
+            ]
+        },
+        "3006": {
+            "gold": 0,
+            "chip": 500000,
+            "name": "Drone",
+            "chip_sell": 50000,
+            "description": [
+                "Imported from other Continent",
+                "High-Resolution Camera Equipped",
+                "8 Hours Battery"
+            ]
+        },
+        "3007": {
+            "gold": 0,
+            "chip": 550000,
+            "name": "Red Whiskey",
+            "chip_sell": 55000,
+            "description": [
+                "Imported from Highland",
+                "Expensive",
+                "750cc"
+            ]
+        },
+        "3008": {
+            "gold": 0,
+            "chip": 600000,
+            "name": "Vintage Camera",
+            "chip_sell": 60000,
+            "description": [
+                "Made from 1950",
+                "Medium Format",
+                "Film Camera"
+            ]
+        },
+        "3009": {
+            "gold": 200,
+            "chip": 0,
+            "name": "Indian Rug",
+            "chip_sell": 100000,
+            "description": [
+                "Local Rug",
+                "Un-known Origin",
+                "Handmade"
+            ]
+        },
+        "3010": {
+            "gold": 220,
+            "chip": 0,
+            "name": "Silver Watch",
+            "chip_sell": 100000,
+            "description": [
+                "Mechanical Only",
+                "Sapphire Glass",
+                "Limited Edition"
+            ]
+        },
+        "3011": {
+            "gold": 240,
+            "chip": 0,
+            "name": "Authentic High Vase",
+            "chip_sell": 100000,
+            "description": [
+                "Buy From an Auction",
+                "Bid from authentic Local Artist",
+                "Outdoor D\u00e9cor"
+            ]
+        },
+        "3012": {
+            "gold": 260,
+            "chip": 0,
+            "name": "Old Painting",
+            "chip_sell": 100000,
+            "description": [
+                "Buy From an Auction",
+                "Expensive",
+                "Authentic"
+            ]
+        },
+        "3013": {
+            "gold": 280,
+            "chip": 0,
+            "name": "Classic Camera",
+            "chip_sell": 100000,
+            "description": [
+                "Made from 1960",
+                "Limited Edtion",
+                "Fullframe Camera Film"
+            ]
+        },
+        "3014": {
+            "gold": 300,
+            "chip": 0,
+            "name": "Expensive Motocycle",
+            "chip_sell": 100000,
+            "description": [
+                "Type: Chopper",
+                "Engine Type: Parallel Twin",
+                "Tranmission Type: Manual"
+            ]
+        },
+        "3015": {
+            "gold": 320,
+            "chip": 0,
+            "name": "Expensive Red Car",
+            "chip_sell": 100000,
+            "description": [
+                "Imported",
+                "Custom Paint by Order",
+                "2018 Series"
+            ]
+        },
+        "3016": {
+            "gold": 340,
+            "chip": 0,
+            "name": "Ruby Vase",
+            "chip_sell": 100000,
+            "description": [
+                "Ruby Coverage: 80%",
+                "Hand made with authentic artist"
+            ]
+        },
+        "4001": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Golden Headphone",
+            "chip_sell": 50000,
+            "description": [
+                "Gold Coverage: 90%",
+                "Custom made",
+                "Base Heavy "
+            ]
+        },
+        "4002": {
+            "gold": 1050,
+            "chip": 0,
+            "name": "Wooden Stool",
+            "chip_sell": 50000,
+            "description": [
+                "Only for Collector",
+                "Very Old Age",
+                "No Sitting"
+            ]
+        },
+        "4003": {
+            "gold": 1100,
+            "chip": 0,
+            "name": "Old Mable Vase",
+            "chip_sell": 50000,
+            "description": [
+                "Special Handpaint",
+                "Indoor D\u00e9cor",
+                "Very Fragile"
+            ]
+        },
+        "4004": {
+            "gold": 1150,
+            "chip": 0,
+            "name": "Old Tea Set",
+            "chip_sell": 50000,
+            "description": [
+                "Made from India",
+                "Un-known Year Making",
+                "Still in Very Good Condition"
+            ]
+        },
+        "4005": {
+            "gold": 1200,
+            "chip": 0,
+            "name": "Colour Table Lamp",
+            "chip_sell": 50000,
+            "description": [
+                "Custom Made Colour Glass",
+                "Only For Collector",
+                "Not Electric"
+            ]
+        },
+        "4006": {
+            "gold": 1250,
+            "chip": 0,
+            "name": "Flower Table Lamp",
+            "chip_sell": 50000,
+            "description": [
+                "Un-known Origin",
+                "Electric",
+                "Lighting Yellow"
+            ]
+        },
+        "4007": {
+            "gold": 1300,
+            "chip": 0,
+            "name": "Golden Table Clock",
+            "chip_sell": 50000,
+            "description": [
+                "Gold Coverage: 75%",
+                "Mechanical"
+            ]
+        },
+        "4008": {
+            "gold": 1350,
+            "chip": 0,
+            "name": "Vintage Telephone",
+            "chip_sell": 50000,
+            "description": [
+                "Buy From an Auction",
+                "Only For Collector",
+                "Still Working"
+            ]
+        },
+        "4009": {
+            "gold": 1400,
+            "chip": 0,
+            "name": "Antique Record Player",
+            "chip_sell": 50000,
+            "description": [
+                "For Vinyl Fan & Collector",
+                "Speaker In-clude",
+                "Sound Amazing"
+            ]
+        },
+        "4010": {
+            "gold": 1450,
+            "chip": 0,
+            "name": "Pearl Girl Painting",
+            "chip_sell": 50000,
+            "description": [
+                "This is not a real Famous Painting",
+                "But still a very good re-painted",
+                "Still very expensive"
+            ]
+        },
+        "4011": {
+            "gold": 1500,
+            "chip": 0,
+            "name": "Antique Table Lamp",
+            "chip_sell": 50000,
+            "description": [
+                "Un-known Origin",
+                "Not Electric"
+            ]
+        },
+        "4012": {
+            "gold": 1550,
+            "chip": 0,
+            "name": "Grand Piano",
+            "chip_sell": 50000,
+            "description": [
+                "Imported ",
+                "Used to Play in a Concert",
+                "Very Expensive"
+            ]
+        },
+        "4013": {
+            "gold": 1600,
+            "chip": 0,
+            "name": "Exquisite Motocycle",
+            "chip_sell": 50000,
+            "description": [
+                "Custom Paint Job",
+                "Used to use in Film Industry",
+                "1000cc"
+            ]
+        },
+        "4014": {
+            "gold": 1650,
+            "chip": 0,
+            "name": "Vintage Blue Car",
+            "chip_sell": 50000,
+            "description": [
+                "Imported",
+                "Look like a James Bond car"
+            ]
+        },
+        "4015": {
+            "gold": 1700,
+            "chip": 0,
+            "name": "Vintage Yellow Car",
+            "chip_sell": 50000,
+            "description": [
+                "Imported from a Tropical Contry",
+                "Original Paint Job"
+            ]
+        },
+        "4016": {
+            "gold": 1750,
+            "chip": 0,
+            "name": "Antique Camera",
+            "chip_sell": 50000,
+            "description": [
+                "Made from 1920 (maybe)",
+                "Only For Collector"
+            ]
+        },
+        "5001": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_65",
+            "chip_sell": 1000,
+            "description": [
+                "description55",
+                "description3",
+                "description3"
+            ]
+        },
+        "5002": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_66",
+            "chip_sell": 1000,
+            "description": [
+                "description56",
+                "description3",
+                "description3"
+            ]
+        },
+        "5003": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_67",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5004": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_68",
+            "chip_sell": 1000,
+            "description": [
+                "description58",
+                "description3",
+                "description3"
+            ]
+        },
+        "5005": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_69",
+            "chip_sell": 1000,
+            "description": [
+                "description59",
+                "description3",
+                "description3"
+            ]
+        },
+        "5006": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_70",
+            "chip_sell": 1000,
+            "description": [
+                "description60",
+                "description3",
+                "description3"
+            ]
+        },
+        "5007": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_71",
+            "chip_sell": 1000,
+            "description": [
+                "description61",
+                "description3",
+                "description3"
+            ]
+        },
+        "5008": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_72",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5009": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_73",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5010": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_74",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5011": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_75",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5012": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_76",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5013": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_77",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5014": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_78",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5015": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_79",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "5016": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_80",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "6001": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_81",
+            "chip_sell": 1000,
+            "description": [
+                "description71",
+                "description3",
+                "description3"
+            ]
+        },
+        "6002": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_82",
+            "chip_sell": 1000,
+            "description": [
+                "description72",
+                "description3",
+                "description3"
+            ]
+        },
+        "6003": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_83",
+            "chip_sell": 1000,
+            "description": [
+                "description73",
+                "description3",
+                "description3"
+            ]
+        },
+        "6004": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_84",
+            "chip_sell": 1000,
+            "description": [
+                "description74",
+                "description3",
+                "description3"
+            ]
+        },
+        "6005": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_85",
+            "chip_sell": 1000,
+            "description": [
+                "description16",
+                "description27",
+                "description16"
+            ]
+        },
+        "6006": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_86",
+            "chip_sell": 1000,
+            "description": [
+                "description76",
+                "description3",
+                "description3"
+            ]
+        },
+        "6007": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_87",
+            "chip_sell": 1000,
+            "description": [
+                "description77",
+                "description3",
+                "description3"
+            ]
+        },
+        "6008": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_88",
+            "chip_sell": 1000,
+            "description": [
+                "description78",
+                "description3",
+                "description3"
+            ]
+        },
+        "6009": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_89",
+            "chip_sell": 1000,
+            "description": [
+                "description79",
+                "description3",
+                "description3"
+            ]
+        },
+        "6010": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_90",
+            "chip_sell": 1000,
+            "description": [
+                "description80",
+                "description3",
+                "description3"
+            ]
+        },
+        "6011": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_91",
+            "chip_sell": 1000,
+            "description": [
+                "description81",
+                "description3",
+                "description3"
+            ]
+        },
+        "6012": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_92",
+            "chip_sell": 1000,
+            "description": [
+                "description82",
+                "description3",
+                "description3"
+            ]
+        },
+        "6013": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_93",
+            "chip_sell": 1000,
+            "description": [
+                "description83",
+                "description3",
+                "description3"
+            ]
+        },
+        "6014": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_94",
+            "chip_sell": 1000,
+            "description": [
+                "description84",
+                "description3",
+                "description3"
+            ]
+        },
+        "6015": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_95",
+            "chip_sell": 1000,
+            "description": [
+                "description85",
+                "description3",
+                "description3"
+            ]
+        },
+        "6016": {
+            "gold": 1000,
+            "chip": 0,
+            "name": "Test_96",
+            "chip_sell": 1000,
+            "description": [
+                "description86",
+                "description3",
+                "description4"
+            ]
+        }
+    }
+}
